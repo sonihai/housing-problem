@@ -1,0 +1,30 @@
+Model Output
+
+Decsition Tree
+1)  Model 1
+
+Scores [3.84479376 5.77012914 5.58233276 3.74432905 3.60672982 3.72169316
+ 7.86220389 3.86610269 3.5416451  4.36921045]
+ 
+Mean 4.5909169810290775
+Standared devistion <built-in method std of numpy.ndarray object at 0x00000000106B1DF0>
+
+
+Linear Regression
+
+2) Model2
+
+Scores [4.20035195 4.26701953 5.21712631 3.82952461 5.3431535  4.31985937
+ 7.45194204 5.47967199 4.15223144 6.00594712]
+Mean 5.0266827850302125
+Standared devistion <built-in method std of numpy.ndarray object at 0x000000000D900E90>
+
+
+3) Model 3
+
+RandomForestTree
+
+Scores [2.78026341 2.73401728 4.35127808 2.59140877 3.22778947 2.76518524
+ 4.64997107 3.23344145 3.23585664 3.15313123]
+Mean 3.2722342634120793
+Standared devistion <built-in method std of numpy.ndarray object at 0x000000000ED68B20>
